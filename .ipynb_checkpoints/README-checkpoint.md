@@ -55,8 +55,10 @@ Kolom `ticker` opsional.
 Install library berikut:
 
 ```bash
-pip install streamlit pandas plotly
-``` 
+pip install -r requirements.txt
+
+```
+Jalankan dengan ketik perintah 
 ```bash
 streamlit run app1.py
 
