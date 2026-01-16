@@ -1,3 +1,5 @@
+link
+https://dashbore-koin-kripto-portofolio-kevin.streamlit.app/
 # Crypto Dashboard
 
 Dashboard interaktif untuk menganalisis harga aset kripto berdasarkan data historis.  
